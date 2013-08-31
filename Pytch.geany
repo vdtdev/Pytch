@@ -22,4 +22,7 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=0
+FILE_NAME_0=1593;Python;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CPytch%5Cchords.py;0;4
+FILE_NAME_1=3114;Python;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CPytch%5Ccore.py;0;4
+FILE_NAME_2=972;Python;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CPytch%5Ctest.py;0;4
