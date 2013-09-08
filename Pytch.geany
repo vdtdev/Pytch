@@ -23,13 +23,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=8
+current_page=0
 FILE_NAME_0=1643;Python;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CPytch%5Cchords.py;0;4
 FILE_NAME_1=3080;Python;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CPytch%5Ccore.py;0;4
 FILE_NAME_2=207;Python;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CPytch%5Ctest.py;0;4
-FILE_NAME_3=0;Markdown;0;16;1;1;0;C%3A%5CUsers%5CWade%5CDocuments%5CGitHub%5CProofer%5CREADME.md;0;4
-FILE_NAME_4=12;Markdown;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CREADME.md;0;4
-FILE_NAME_5=0;None;0;16;1;1;0;C%3A%5CUsers%5CWade%5CDocuments%5CElectronic%20Arts%5CThe%20Sims%203%5CMods%5CPackages%5Cchild-sensor.cmx;0;4
-FILE_NAME_6=0;None;0;16;1;1;0;C%3A%5CUsers%5CWade%5CDocuments%5CElectronic%20Arts%5CThe%20Sims%203%5CVersion.tag;0;4
-FILE_NAME_7=0;Python;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CPytch%5Csimplified.py;0;4
-FILE_NAME_8=203;HTML;0;16;1;1;0;L%3A%5CFlash%5CProjectSite%5Cintro.html;0;4
+FILE_NAME_3=0;Python;0;16;1;1;0;f%3A%5Cdev%5Cpython%5Cpytch%5CPytch%5Csimplified.py;0;4
+FILE_NAME_4=203;HTML;0;16;1;1;0;L%3A%5CFlash%5CProjectSite%5Cintro.html;0;4
